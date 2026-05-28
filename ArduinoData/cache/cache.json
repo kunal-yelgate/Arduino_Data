@@ -1,0 +1,29 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "C:\\Users\\yelga\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "4cffe5e078a7573d5c093d61f332e532",
+    "md5" : "MD5:4cffe5e078a7573d5c093d61f332e532",
+    "createdAt" : "2025-04-05T15:02:21.829",
+    "cacheControl" : {
+      "maxAge" : -1,
+      "noStore" : false,
+      "noCache" : false,
+      "mustRevalidate" : false
+    },
+    "expires" : "2025-04-05T15:02:20.829"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "C:\\Users\\yelga\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "c2d1da9938b0c5319020650bb682daa5",
+    "md5" : "MD5:c2d1da9938b0c5319020650bb682daa5",
+    "createdAt" : "2025-04-05T15:02:17.976",
+    "cacheControl" : {
+      "maxAge" : -1,
+      "noStore" : false,
+      "noCache" : false,
+      "mustRevalidate" : false
+    },
+    "expires" : "2025-04-05T15:02:16.976"
+  } ]
+}
